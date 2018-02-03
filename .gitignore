@@ -1,0 +1,4 @@
+*.zip
+ArduinoLibs/
+ChipKit_Bootloaders/
+3D_Files/
